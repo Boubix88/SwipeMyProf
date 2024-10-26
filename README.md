@@ -10,7 +10,7 @@ This website is a Tinder-like platform based on professor profiles.
 ## Launch application
 - Open 2 terminals :
 - ``` 
-  cd back-end 
+  cd BackEnd
   npm run start:dev
   ```
 - ``` 
