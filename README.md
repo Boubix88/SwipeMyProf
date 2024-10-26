@@ -11,9 +11,11 @@ This website is a Tinder-like platform based on professor profiles.
 - Open 2 terminals :
 - ``` 
   cd BackEnd
+  npm install
   npm run start:dev
   ```
 - ``` 
-  cd FrontEnd 
+  cd FrontEnd
+  npm install
   npm run start
   ```
